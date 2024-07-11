@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WizardingWorld>
+    <Territories>
+        <Territory>
+            <Name>United Kingdom</Name>
+            <Location>Europe</Location>
+            <Description>The primary setting for the Harry Potter series, home to Hogwarts School of Witchcraft and Wizardry.</Description>
+        </Territory>
+        <Territory>
+            <Name>France</Name>
+            <Location>Europe</Location>
+            <Description>Home to Beauxbatons Academy of Magic.</Description>
+        </Territory>
+        <Territory>
+            <Name>Bulgaria</Name>
+            <Location>Europe</Location>
+            <Description>Known for Durmstrang Institute, a school with a strong emphasis on the Dark Arts.</Description>
+        </Territory>
+    </Territories>
+    <Schools>
+        <School>
+            <Name>Hogwarts School of Witchcraft and Wizardry</Name>
+            <Location>Scotland</Location>
+            <Headmaster>Albus Dumbledore</Headmaster>
+            <Houses>
+                <House>
+                    <Name>Gryffindor</Name>
+                    <Founder>Godric Gryffindor</Founder>
+                    <Ghost>Nearly Headless Nick</Ghost>
+                    <Traits>Bravery, Courage, Determination</Traits>
+                    <Colors>Red, Gold</Colors>
+                </House>
+                <House>
+                    <Name>Hufflepuff</Name>
+                    <Founder>Helga Hufflepuff</Founder>
+                    <Ghost>The Fat Friar</Ghost>
+                    <Traits>Hard work, Patience, Loyalty</Traits>
+                    <Colors>Yellow, Black</Colors>
+                </House>
+                <House>
+                    <Name>Ravenclaw</Name>
+                    <Founder>Rowena Ravenclaw</Founder>
+                    <Ghost>The Grey Lady</Ghost>
+                    <Traits>Intelligence, Creativity, Wit</Traits>
+                    <Colors>Blue, Silver</Colors>
+                </House>
+                <House>
+                    <Name>Slytherin</Name>
+                    <Founder>Salazar Slytherin</Founder>
+                    <Ghost>The Bloody Baron</Ghost>
+                    <Traits>Ambition, Cunning, Resourcefulness</Traits>
+                    <Colors>Green, Silver</Colors>
+                </House>
+            </Houses>
+        </School>
+        <School>
+            <Name>Beauxbatons Academy of Magic</Name>
+            <Location>France</Location>
+            <Headmistress>Madame Olympe Maxime</Headmistress>
+            <Houses>
+                <House>
+                    <Name>Bellefeuille</Name>
+                    <Founder>Gilles de Rais</Founder>
+                    <Traits>Herbology, Kindness</Traits>
+                    <Colors>Green, Brown</Colors>
+                </House>
+                <House>
+                    <Name>Ombrelune</Name>
+                    <Founder>Lady Grivelda</Founder>
+                    <Traits>Astrology, Precision</Traits>
+                    <Colors>Silver, Blue</Colors>
+                </House>
+                <House>
+                    <Name>Papillonlisse</Name>
+                    <Founder>Petrova Porskoff</Founder>
+                    <Traits>Beauty, Grace</Traits>
+                    <Colors>Pink, Gold</Colors>
+                </House>
+            </Houses>
+        </School>
+        <School>
+            <Name>Durmstrang Institute</Name>
+            <Location>Bulgaria</Location>
+            <Headmaster>Igor Karkaroff</Headmaster>
+            <Houses>
+                <House>
+                    <Name>Vajda</Name>
+                    <Founder>Gellert Grindelwald</Founder>
+                    <Traits>Dark Arts, Strength</Traits>
+                    <Colors>Black, Red</Colors>
+                </House>
+                <House>
+                    <Name>Vratsa</Name>
+                    <Founder>Ivaylo Mihailov</Founder>
+                    <Traits>Potions, Resilience</Traits>
+                    <Colors>Green, Gold</Colors>
+                </House>
+                <House>
+                    <Name>Volkov</Name>
+                    <Founder>Aleksander Volkov</Founder>
+                    <Traits>Transfiguration, Loyalty</Traits>
+                    <Colors>Blue, White</Colors>
+                </House>
+            </Houses>
+        </School>
+    </Schools>
+</WizardingWorld>

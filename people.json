@@ -1,0 +1,105 @@
+{
+    "characters": [
+      {
+        "name": "Harry Potter",
+        "house": "Gryffindor",
+        "birthdate": "1980-07-31",
+        "blood_status": "Half-blood",
+        "patronus": "Stag",
+        "wand": {
+          "wood": "Holly",
+          "core": "Phoenix feather",
+          "length": "11 inches"
+        }
+      },
+      {
+        "name": "Hermione Granger",
+        "house": "Gryffindor",
+        "birthdate": "1979-09-19",
+        "blood_status": "Muggle-born",
+        "patronus": "Otter",
+        "wand": {
+          "wood": "Vine",
+          "core": "Dragon heartstring",
+          "length": "10.75 inches"
+        }
+      },
+      {
+        "name": "Ron Weasley",
+        "house": "Gryffindor",
+        "birthdate": "1980-03-01",
+        "blood_status": "Pure-blood",
+        "patronus": "Jack Russell Terrier",
+        "wand": {
+          "wood": "Willow",
+          "core": "Unicorn hair",
+          "length": "14 inches"
+        }
+      }
+    ],
+    "houses": [
+      {
+        "name": "Gryffindor",
+        "founder": "Godric Gryffindor",
+        "ghost": "Nearly Headless Nick",
+        "traits": ["Bravery", "Courage", "Determination"],
+        "colors": ["Red", "Gold"]
+      },
+      {
+        "name": "Hufflepuff",
+        "founder": "Helga Hufflepuff",
+        "ghost": "The Fat Friar",
+        "traits": ["Hard work", "Patience", "Loyalty"],
+        "colors": ["Yellow", "Black"]
+      },
+      {
+        "name": "Ravenclaw",
+        "founder": "Rowena Ravenclaw",
+        "ghost": "The Grey Lady",
+        "traits": ["Intelligence", "Creativity", "Wit"],
+        "colors": ["Blue", "Silver"]
+      },
+      {
+        "name": "Slytherin",
+        "founder": "Salazar Slytherin",
+        "ghost": "The Bloody Baron",
+        "traits": ["Ambition", "Cunning", "Resourcefulness"],
+        "colors": ["Green", "Silver"]
+      }
+    ],
+    "spells": [
+      {
+        "name": "Expelliarmus",
+        "type": "Charm",
+        "effect": "Disarms the target"
+      },
+      {
+        "name": "Lumos",
+        "type": "Charm",
+        "effect": "Produces light from the wand tip"
+      },
+      {
+        "name": "Expecto Patronum",
+        "type": "Charm",
+        "effect": "Summons a Patronus"
+      }
+    ],
+    "magical_objects": [
+      {
+        "name": "Invisibility Cloak",
+        "owner": "Harry Potter",
+        "description": "Makes the wearer invisible"
+      },
+      {
+        "name": "The Marauder's Map",
+        "owners": ["Harry Potter", "Ron Weasley", "Hermione Granger"],
+        "description": "Shows the location of everyone within Hogwarts"
+      },
+      {
+        "name": "Elder Wand",
+        "owners": ["Albus Dumbledore", "Harry Potter"],
+        "description": "The most powerful wand in existence"
+      }
+    ]
+  }
+  
