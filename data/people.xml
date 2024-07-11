@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <characters>
+    <name>Harry Potter</name>
+    <house>Gryffindor</house>
+    <birthdate>1980-07-31</birthdate>
+    <blood_status>Half-blood</blood_status>
+    <patronus>Stag</patronus>
+    <wand>
+      <wood>Holly</wood>
+      <core>Phoenix feather</core>
+      <length>11 inches</length>
+    </wand>
+  </characters>
+  <characters>
+    <name>Hermione Granger</name>
+    <house>Gryffindor</house>
+    <birthdate>1979-09-19</birthdate>
+    <blood_status>Muggle-born</blood_status>
+    <patronus>Otter</patronus>
+    <wand>
+      <wood>Vine</wood>
+      <core>Dragon heartstring</core>
+      <length>10.75 inches</length>
+    </wand>
+  </characters>
+  <characters>
+    <name>Ron Weasley</name>
+    <house>Gryffindor</house>
+    <birthdate>1980-03-01</birthdate>
+    <blood_status>Pure-blood</blood_status>
+    <patronus>Jack Russell Terrier</patronus>
+    <wand>
+      <wood>Willow</wood>
+      <core>Unicorn hair</core>
+      <length>14 inches</length>
+    </wand>
+  </characters>
+  <houses>
+    <name>Gryffindor</name>
+    <founder>Godric Gryffindor</founder>
+    <ghost>Nearly Headless Nick</ghost>
+    <traits>Bravery</traits>
+    <traits>Courage</traits>
+    <traits>Determination</traits>
+    <colors>Red</colors>
+    <colors>Gold</colors>
+  </houses>
+  <houses>
+    <name>Hufflepuff</name>
+    <founder>Helga Hufflepuff</founder>
+    <ghost>The Fat Friar</ghost>
+    <traits>Hard work</traits>
+    <traits>Patience</traits>
+    <traits>Loyalty</traits>
+    <colors>Yellow</colors>
+    <colors>Black</colors>
+  </houses>
+  <houses>
+    <name>Ravenclaw</name>
+    <founder>Rowena Ravenclaw</founder>
+    <ghost>The Grey Lady</ghost>
+    <traits>Intelligence</traits>
+    <traits>Creativity</traits>
+    <traits>Wit</traits>
+    <colors>Blue</colors>
+    <colors>Silver</colors>
+  </houses>
+  <houses>
+    <name>Slytherin</name>
+    <founder>Salazar Slytherin</founder>
+    <ghost>The Bloody Baron</ghost>
+    <traits>Ambition</traits>
+    <traits>Cunning</traits>
+    <traits>Resourcefulness</traits>
+    <colors>Green</colors>
+    <colors>Silver</colors>
+  </houses>
+  <spells>
+    <name>Expelliarmus</name>
+    <type>Charm</type>
+    <effect>Disarms the target</effect>
+  </spells>
+  <spells>
+    <name>Lumos</name>
+    <type>Charm</type>
+    <effect>Produces light from the wand tip</effect>
+  </spells>
+  <spells>
+    <name>Expecto Patronum</name>
+    <type>Charm</type>
+    <effect>Summons a Patronus</effect>
+  </spells>
+  <magical_objects>
+    <name>Invisibility Cloak</name>
+    <owner>Harry Potter</owner>
+    <description>Makes the wearer invisible</description>
+  </magical_objects>
+  <magical_objects>
+    <name>The Marauder's Map</name>
+    <owners>Harry Potter</owners>
+    <owners>Ron Weasley</owners>
+    <owners>Hermione Granger</owners>
+    <description>Shows the location of everyone within Hogwarts</description>
+  </magical_objects>
+  <magical_objects>
+    <name>Elder Wand</name>
+    <owners>Albus Dumbledore</owners>
+    <owners>Harry Potter</owners>
+    <description>The most powerful wand in existence</description>
+  </magical_objects>
+</Root>
