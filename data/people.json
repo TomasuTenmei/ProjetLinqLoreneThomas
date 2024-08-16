@@ -35,6 +35,102 @@
           "core": "Unicorn hair",
           "length": "14 inches"
         }
+      },
+      {
+        "name": "Draco Malfoy",
+        "house": "Slytherin",
+        "birthdate": "1980-06-05",
+        "blood_status": "Pure-blood",
+        "patronus": null,
+        "wand": {
+          "wood": "Hawthorn",
+          "core": "Unicorn hair",
+          "length": "10 inches"
+        }
+      },
+      {
+        "name": "Luna Lovegood",
+        "house": "Ravenclaw",
+        "birthdate": "1981-02-13",
+        "blood_status": "Pure-blood",
+        "patronus": "Hare",
+        "wand": {
+          "wood": "Cherry",
+          "core": "Unicorn hair",
+          "length": "13 inches"
+        }
+      },
+      {
+        "name": "Cedric Diggory",
+        "house": "Hufflepuff",
+        "birthdate": "1977-09-01",
+        "blood_status": "Pure-blood",
+        "patronus": null,
+        "wand": {
+          "wood": "Ash",
+          "core": "Unicorn hair",
+          "length": "12.25 inches"
+        }
+      },
+      {
+        "name": "Ginny Weasley",
+        "house": "Gryffindor",
+        "birthdate": "1981-08-11",
+        "blood_status": "Pure-blood",
+        "patronus": "Horse",
+        "wand": {
+          "wood": "Yew",
+          "core": "Phoenix feather",
+          "length": "9 inches"
+        }
+      },
+      {
+        "name": "Neville Longbottom",
+        "house": "Gryffindor",
+        "birthdate": "1980-07-30",
+        "blood_status": "Pure-blood",
+        "patronus": null,
+        "wand": {
+          "wood": "Cherry",
+          "core": "Unicorn hair",
+          "length": "13 inches"
+        }
+      },
+      {
+        "name": "Cho Chang",
+        "house": "Ravenclaw",
+        "birthdate": "1979-09-14",
+        "blood_status": "Muggle-born",
+        "patronus": "Swan",
+        "wand": {
+          "wood": "Pear",
+          "core": "Unicorn hair",
+          "length": "10.5 inches"
+        }
+      },
+      {
+        "name": "Severus Snape",
+        "house": "Slytherin",
+        "birthdate": "1960-01-09",
+        "blood_status": "Half-blood",
+        "patronus": "Doe",
+        "wand": {
+          "wood": "Yew",
+          "core": "Phoenix feather",
+          "length": "13.5 inches"
+        }
+      },
+      {
+        "name": "Lowene La barbare",
+        "house":"Slytherin",
+        "birthdate": "2010-01-01",
+        "blood_status": "Half-blood",
+        "patronus": "Goat",
+        "wand": {
+          "wood": "Chipboard",
+          "core": "Goat feather",
+          "length": "10 inches"
+        }
       }
     ],
     "houses": [

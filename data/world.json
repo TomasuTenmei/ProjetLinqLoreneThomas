@@ -1,1 +1,122 @@
-{"?xml":{"@version":"1.0","@encoding":"UTF-8"},"WizardingWorld":{"Territories":{"Territory":[{"Name":"United Kingdom","Location":"Europe","Description":"The primary setting for the Harry Potter series, home to Hogwarts School of Witchcraft and Wizardry."},{"Name":"France","Location":"Europe","Description":"Home to Beauxbatons Academy of Magic."},{"Name":"Bulgaria","Location":"Europe","Description":"Known for Durmstrang Institute, a school with a strong emphasis on the Dark Arts."}]},"Schools":{"School":[{"Name":"Hogwarts School of Witchcraft and Wizardry","Location":"Scotland","Headmaster":"Albus Dumbledore","Houses":{"House":[{"Name":"Gryffindor","Founder":"Godric Gryffindor","Ghost":"Nearly Headless Nick","Traits":"Bravery, Courage, Determination","Colors":"Red, Gold"},{"Name":"Hufflepuff","Founder":"Helga Hufflepuff","Ghost":"The Fat Friar","Traits":"Hard work, Patience, Loyalty","Colors":"Yellow, Black"},{"Name":"Ravenclaw","Founder":"Rowena Ravenclaw","Ghost":"The Grey Lady","Traits":"Intelligence, Creativity, Wit","Colors":"Blue, Silver"},{"Name":"Slytherin","Founder":"Salazar Slytherin","Ghost":"The Bloody Baron","Traits":"Ambition, Cunning, Resourcefulness","Colors":"Green, Silver"}]}},{"Name":"Beauxbatons Academy of Magic","Location":"France","Headmistress":"Madame Olympe Maxime","Houses":{"House":[{"Name":"Bellefeuille","Founder":"Gilles de Rais","Traits":"Herbology, Kindness","Colors":"Green, Brown"},{"Name":"Ombrelune","Founder":"Lady Grivelda","Traits":"Astrology, Precision","Colors":"Silver, Blue"},{"Name":"Papillonlisse","Founder":"Petrova Porskoff","Traits":"Beauty, Grace","Colors":"Pink, Gold"}]}},{"Name":"Durmstrang Institute","Location":"Bulgaria","Headmaster":"Igor Karkaroff","Houses":{"House":[{"Name":"Vajda","Founder":"Gellert Grindelwald","Traits":"Dark Arts, Strength","Colors":"Black, Red"},{"Name":"Vratsa","Founder":"Ivaylo Mihailov","Traits":"Potions, Resilience","Colors":"Green, Gold"},{"Name":"Volkov","Founder":"Aleksander Volkov","Traits":"Transfiguration, Loyalty","Colors":"Blue, White"}]}}]}}}
+{
+    "?xml": {
+        "@version": "1.0",
+        "@encoding": "UTF-8"
+    },
+    "WizardingWorld": {
+        "Territories": {
+            "Territory": [
+                {
+                    "Name": "United Kingdom",
+                    "Location": "Europe",
+                    "Description": "The primary setting for the Harry Potter series, home to Hogwarts School of Witchcraft and Wizardry."
+                },
+                {
+                    "Name": "France",
+                    "Location": "Europe",
+                    "Description": "Home to Beauxbatons Academy of Magic."
+                },
+                {
+                    "Name": "Bulgaria",
+                    "Location": "Europe",
+                    "Description": "Known for Durmstrang Institute, a school with a strong emphasis on the Dark Arts."
+                }
+            ]
+        },
+        "Schools": {
+            "School": [
+                {
+                    "Name": "Hogwarts School of Witchcraft and Wizardry",
+                    "Location": "Scotland",
+                    "Headmaster": "Albus Dumbledore",
+                    "Houses": {
+                        "House": [
+                            {
+                                "Name": "Gryffindor",
+                                "Founder": "Godric Gryffindor",
+                                "Ghost": "Nearly Headless Nick",
+                                "Traits": "Bravery, Courage, Determination",
+                                "Colors": "Red, Gold"
+                            },
+                            {
+                                "Name": "Hufflepuff",
+                                "Founder": "Helga Hufflepuff",
+                                "Ghost": "The Fat Friar",
+                                "Traits": "Hard work, Patience, Loyalty",
+                                "Colors": "Yellow, Black"
+                            },
+                            {
+                                "Name": "Ravenclaw",
+                                "Founder": "Rowena Ravenclaw",
+                                "Ghost": "The Grey Lady",
+                                "Traits": "Intelligence, Creativity, Wit",
+                                "Colors": "Blue, Silver"
+                            },
+                            {
+                                "Name": "Slytherin",
+                                "Founder": "Salazar Slytherin",
+                                "Ghost": "The Bloody Baron",
+                                "Traits": "Ambition, Cunning, Resourcefulness",
+                                "Colors": "Green, Silver"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Name": "Beauxbatons Academy of Magic",
+                    "Location": "France",
+                    "Headmistress": "Madame Olympe Maxime",
+                    "Houses": {
+                        "House": [
+                            {
+                                "Name": "Bellefeuille",
+                                "Founder": "Gilles de Rais",
+                                "Traits": "Herbology, Kindness",
+                                "Colors": "Green, Brown"
+                            },
+                            {
+                                "Name": "Ombrelune",
+                                "Founder": "Lady Grivelda",
+                                "Traits": "Astrology, Precision",
+                                "Colors": "Silver, Blue"
+                            },
+                            {
+                                "Name": "Papillonlisse",
+                                "Founder": "Petrova Porskoff",
+                                "Traits": "Beauty, Grace",
+                                "Colors": "Pink, Gold"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "Name": "Durmstrang Institute",
+                    "Location": "Bulgaria",
+                    "Headmaster": "Igor Karkaroff",
+                    "Houses": {
+                        "House": [
+                            {
+                                "Name": "Vajda",
+                                "Founder": "Gellert Grindelwald",
+                                "Traits": "Dark Arts, Strength",
+                                "Colors": "Black, Red"
+                            },
+                            {
+                                "Name": "Vratsa",
+                                "Founder": "Ivaylo Mihailov",
+                                "Traits": "Potions, Resilience",
+                                "Colors": "Green, Gold"
+                            },
+                            {
+                                "Name": "Volkov",
+                                "Founder": "Aleksander Volkov",
+                                "Traits": "Transfiguration, Loyalty",
+                                "Colors": "Blue, White"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
